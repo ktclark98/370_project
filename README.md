@@ -5,6 +5,5 @@
 
 
 Here is the webpage about our final resources:
-- [Web Resources](https://htmlpreview.github.io/?https://github.com/ktclark98/370_project/blob/gh-pages/index_1.html)
-  - [If the link above not working](https://htmlpreview.github.io/?https://github.com/ktclark98/370_project/blob/gh-pages/index.html)
-
+- [Web Resources](http://students.washington.edu/autumd/info370/370_project/)
+> You may hit the code toggle to view the code which generated the report. 
